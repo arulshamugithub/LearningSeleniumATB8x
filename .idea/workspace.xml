@@ -4,20 +4,84 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d76ba295-2790-4619-af45-7ec59e554240" name="Changes" comment="" />
+    <list default="true" id="d76ba295-2790-4619-af45-7ec59e554240" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/Hello.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex02_20122024/Selenium10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex02_20122024/Selenium12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex02_20122024/Selenium13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex02_20122024/Selenium14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex02_20122024/Selenium15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex02_20122024/adblock.crx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex03_23122024/Selenium16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex03_23122024/Selenium17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex03_23122024/Selenium18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex03_23122024/task_23122024.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex04_30122024/Selenium20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex04_30122024/Selenium21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex04_30122024/Selenium22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex05_Selenium_Xpath/Selenium23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex06_Selenium_SVG/Selenium44_Web_tables_static.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex06_Selenium_SVG/Selenium44_Web_tables_task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex06_Selenium_SVG/Selenium_SVG_P1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex06_Selenium_SVG/Selenium_SVG_P2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex06_Selenium_SVG/Selenium_Shadow_P1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex07_Selenium_WebTables/Selenium45_WebTables_Dynamic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex08_Selenium_Actions_Windows_IFrame/Selenium46_Actions_P1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex08_Selenium_Actions_Windows_IFrame/Selenium46_Actions_P2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex08_Selenium_Actions_Windows_IFrame/Selenium46_Actions_P3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex08_Selenium_Actions_Windows_IFrame/Selenium46_Actions_P6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex08_Selenium_Actions_Windows_IFrame/Selenium46_Actions_P7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex08_Selenium_Actions_Windows_IFrame/Selenium46_Actions_Windows_IFrame_P5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex08_Selenium_Actions_Windows_IFrame/Selenium46_Actions_Windows_P4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex09_Selenium_JSExecutor/Selenium24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex09_Selenium_JSExecutor/ex09_Selenium_JSExecutor/Selenium25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex10_Selenium_Relative_Locators/Selenium25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex10_Selenium_Relative_Locators/Selenium26_Relative_Locators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex01_18122024/Selenium01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex01_18122024/Selenium01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex01_18122024/Selenium02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex01_18122024/Selenium02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex01_18122024/Selenium04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex01_18122024/Selenium04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex01_18122024/Selenium05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex01_18122024/Selenium05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex01_18122024/Selenium06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex01_18122024/Selenium06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex01_18122024/Selenium07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex01_18122024/Selenium07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex01_18122024/Selenium08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex01_18122024/Selenium08.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;arulshamugithub&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/arulshamugithub/LearningSeleniumATB8x.git&quot;,
+    &quot;accountId&quot;: &quot;2ab5c5d2-d531-4332-94a0-d578f35d1b02&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2qQnpGmC5seygQCPQ2AK7E4sDmC" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -26,10 +90,166 @@
   "keyToString": {
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.C:/Users/Admin/IdeaProjects/LearningSeleniumATB8x/testng.xml.executor": "Run",
+    "TestNG.Selenium01.executor": "Run",
+    "TestNG.Selenium03.executor": "Run",
+    "TestNG.Selenium10.executor": "Run",
+    "TestNG.Selenium12.executor": "Run",
+    "TestNG.Selenium13.executor": "Run",
+    "TestNG.Selenium14.testMethod01.executor": "Run",
+    "TestNG.Selenium15.executor": "Run",
+    "TestNG.Selenium16.executor": "Run",
+    "TestNG.Selenium17.executor": "Run",
+    "TestNG.Selenium18.executor": "Run",
+    "TestNG.Selenium20.executor": "Run",
+    "TestNG.Selenium21.executor": "Run",
+    "TestNG.Selenium22.executor": "Run",
+    "TestNG.Selenium23.executor": "Run",
+    "TestNG.Selenium24.executor": "Run",
+    "TestNG.Selenium25 (1).executor": "Run",
+    "TestNG.Selenium25.executor": "Run",
+    "TestNG.Selenium25.testMethod01 (1).executor": "Run",
+    "TestNG.Selenium25.testMethod01.executor": "Run",
+    "TestNG.Selenium26_Relative_Locators.executor": "Run",
+    "TestNG.Selenium41_Shadow_P1.executor": "Run",
+    "TestNG.Selenium44_Web_tables_static.executor": "Run",
+    "TestNG.Selenium44_Web_tables_static.test_web_tables.executor": "Run",
+    "TestNG.Selenium44_Web_tables_task.executor": "Run",
+    "TestNG.Selenium45_WebTables_Dynamic.executor": "Run",
+    "TestNG.Selenium46_Actions_P1.executor": "Run",
+    "TestNG.Selenium46_Actions_P2.executor": "Run",
+    "TestNG.Selenium46_Actions_P3.executor": "Run",
+    "TestNG.Selenium46_Actions_P3.test_actions_task_p2.executor": "Run",
+    "TestNG.Selenium46_Actions_P6.executor": "Run",
+    "TestNG.Selenium46_Actions_P6.test_makemytrip_pagedown_button.executor": "Run",
+    "TestNG.Selenium46_Actions_P7.executor": "Run",
+    "TestNG.Selenium46_Actions_Windows_IFrame_P5.executor": "Run",
+    "TestNG.Selenium46_Actions_Windows_IFrame_P5.test_heatmap_p5.executor": "Run",
+    "TestNG.Selenium46_Actions_Windows_P4.executor": "Run",
+    "TestNG.Selenium46_Actions_Windows_P4.test_actions_windows_p4.executor": "Run",
+    "TestNG.Selenium_SVG_P1.executor": "Run",
+    "TestNG.Selenium_SVG_P2.executor": "Run",
+    "TestNG.Selenium_Shadow_P1.executor": "Run",
+    "TestNG.Selenium_Shadow_P1.test_shadow_dom.executor": "Coverage",
+    "TestNG.Selenium_Web_Tables_Static$Selenium_Web_Tables_Static.executor": "Run",
+    "TestNG.task_23122024.executor": "Run",
     "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Admin/IdeaProjects/LearningSeleniumATB8x/src/test/java/com/thetestingacademy/ex09_Selenium_JSExecutor"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\IdeaProjects\LearningSeleniumATB8x\src\test\java\com\thetestingacademy\ex09_Selenium_JSExecutor" />
+      <recent name="C:\Users\Admin\IdeaProjects\LearningSeleniumATB8x\src\test\java\com\thetestingacademy\ex02_20122024" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.thetestingacademy.ex08_Selenium_Actions_Windows_IFrame" />
+      <recent name="com.thetestingacademy.ex07_Selenium_WebTables" />
+      <recent name="com.thetestingacademy.ex06_Selenium_SVG" />
+      <recent name="com.thetestingacademy.ex05_Selenium_Xpath" />
+      <recent name="com.thetestingacademy.ex04_30122024" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.Selenium26_Relative_Locators">
+    <configuration name="Selenium25 (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearningSeleniumATB8x" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacademy.ex10_Selenium_Relative_Locators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex10_Selenium_Relative_Locators" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex10_Selenium_Relative_Locators.Selenium25" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Selenium25" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearningSeleniumATB8x" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacademy.ex09_Selenium_JSExecutor.ex09_Selenium_JSExecutor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex09_Selenium_JSExecutor.ex09_Selenium_JSExecutor" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex09_Selenium_JSExecutor.ex09_Selenium_JSExecutor.Selenium25" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Selenium25.testMethod01 (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearningSeleniumATB8x" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacademy.ex10_Selenium_Relative_Locators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex10_Selenium_Relative_Locators" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex10_Selenium_Relative_Locators.Selenium25" />
+      <option name="METHOD_NAME" value="testMethod01" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Selenium25.testMethod01" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearningSeleniumATB8x" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacademy.ex09_Selenium_JSExecutor.ex09_Selenium_JSExecutor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex09_Selenium_JSExecutor.ex09_Selenium_JSExecutor" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex09_Selenium_JSExecutor.ex09_Selenium_JSExecutor.Selenium25" />
+      <option name="METHOD_NAME" value="testMethod01" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Selenium26_Relative_Locators" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearningSeleniumATB8x" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacademy.ex10_Selenium_Relative_Locators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex10_Selenium_Relative_Locators" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex10_Selenium_Relative_Locators.Selenium26_Relative_Locators" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Selenium26_Relative_Locators" />
+        <item itemvalue="TestNG.Selenium25.testMethod01 (1)" />
+        <item itemvalue="TestNG.Selenium25 (1)" />
+        <item itemvalue="TestNG.Selenium25" />
+        <item itemvalue="TestNG.Selenium25.testMethod01" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -40,5 +260,10 @@
       <updated>1734603851062</updated>
     </task>
     <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/LearningSeleniumATB8x$Selenium_Shadow_P1_test_shadow_dom.ic" NAME="Selenium_Shadow_P1.test_shadow_dom Coverage Results" MODIFIED="1737373693404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>com.thetestingacademy.ex06_Selenium_SVG.*</FILTER>
+    </SUITE>
   </component>
 </project>
